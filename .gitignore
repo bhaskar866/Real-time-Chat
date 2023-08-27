@@ -1,0 +1,11 @@
+# Ignore virtual environment
+chat-real-time/
+
+# Ignore any compiled Python files
+__pycache__/
+
+# Other files and directories to ignore
+*.pyc
+*.pyo
+*.db
+*.sqlite3
