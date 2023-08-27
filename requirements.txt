@@ -1,2 +1,11 @@
 fastapi==0.68.0
 uvicorn==0.15.0
+sqlalchemy==1.4.26
+passlib==1.7.4
+pyjwt==2.3.0
+python-multipart==0.0.5
+aiohttp==3.7.4
+aiohttp-cors==0.7.0
+websockets==10.1
+asyncio==3.4.3
+bcrypt==3.2.0
